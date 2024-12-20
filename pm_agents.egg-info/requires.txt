@@ -1,0 +1,9 @@
+pyautogen>=0.2.0
+openai-whisper>=20231117
+nltk>=3.8.1
+psutil>=5.9.0
+openai>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+langdetect>=1.0.0

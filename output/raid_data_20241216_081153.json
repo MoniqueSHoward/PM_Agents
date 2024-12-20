@@ -1,0 +1,174 @@
+{
+  "processing_info": {
+    "timestamp": "2024-12-16T08:11:53.777718",
+    "file_name": "RAID_sample.txt",
+    "project_name": "PayDate Project",
+    "project_summary": "A project to create a web app that helps students improve their communication skills through assigned play"
+  },
+  "raid_entries": [
+    {
+      "id": "D-20241216081151",
+      "category": "D",
+      "summary": "The team will share links to submitted projects and decide which projects to pursue based on insights gathered.",
+      "confidence_score": 0.135,
+      "date_identified": "2024-12-16T08:11:51.713272",
+      "context": "mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the board . \"I will share the link to the submitted projects. After that, I will provide you with the best insights. We can then decide on each project that we want to pursue.\"",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241216081151",
+      "category": "R",
+      "summary": "There is a potential risk of needing additional resources for the project, which may impact the timeline and deliverables.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-16T08:11:51.715280",
+      "context": "mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the board . \"Additionally, we can assess during our meeting next week whether we need to find another resource.\"",
+      "solution": "Reach out to networks to find someone with the necessary experience.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241216081151",
+      "category": "I",
+      "summary": "There is uncertainty regarding the involvement of Dell in the hackathon, which could affect project collaboration or support.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-16T08:11:51.716771",
+      "context": "mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the board . \"Regarding Dell and Nvidia, I am unsure what Dell's involvement is.\"",
+      "solution": "Seek clarification on Dell's involvement.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "A-20241216081151",
+      "category": "A",
+      "summary": "It is assumed that there is no limit on the number of team members for the hackathon, but this needs to be confirmed.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-16T08:11:51.718115",
+      "context": "mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the board . \"I believe there is no limit, but I will confirm this.\"",
+      "solution": "Confirm the team member limit with the hackathon organizers.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241216081151",
+      "category": "D",
+      "summary": "A separate channel will be created to consolidate all discussed information and facilitate communication among team members.",
+      "confidence_score": 0.12,
+      "date_identified": "2024-12-16T08:11:51.718771",
+      "context": "mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the board . \"That channel will be made into a separate channel, and I will add everyone to it.\"",
+      "solution": "Create a dedicated channel for project discussions.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241216081151",
+      "category": "D",
+      "summary": "A meeting will be scheduled for next week to determine the best day for further discussions and decisions.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-16T08:11:51.720272",
+      "context": "mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the board . \"I will schedule a meeting for next week and determine the best day for it.\"",
+      "solution": "Schedule a follow-up meeting.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241216081153",
+      "category": "R",
+      "summary": "There is a risk that the team may overlook important considerations during the hackathon, which could lead to inadequate project development.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-16T08:11:53.519718",
+      "context": "\"I believe that often, especially during hackathons, we may overlook important considerations.\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": "Engage in a thorough review process and discussion about the workbench and project concepts.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "A-20241216081153",
+      "category": "A",
+      "summary": "The team assumes that they have sufficient time to explore the Nvidia AI Workbench and decide on project concepts before proceeding.",
+      "confidence_score": 0.015,
+      "date_identified": "2024-12-16T08:11:53.520718",
+      "context": "\"I wanted to approach this a bit differently, and we have some time to explore the workbench.\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241216081153",
+      "category": "I",
+      "summary": "The team faced issues with the Navicare project, specifically scaling back functionality due to numerous problems encountered while using Flow.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-16T08:11:53.522220",
+      "context": "\"we had to scale back some functionality due to numerous issues we faced while using Flow.\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": "Consideration of current team capabilities and whether they can effectively invest their time.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241216081153",
+      "category": "D",
+      "summary": "The team decided to schedule another meeting next week to review concepts and make a decision on whether to proceed with the project.",
+      "confidence_score": 0.3,
+      "date_identified": "2024-12-16T08:11:53.523718",
+      "context": "\"During our scheduling of another meeting next week, we can reconvene to make a decision on whether we believe the project will be successful.\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": "Schedule a follow-up meeting to evaluate concepts.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241216081153",
+      "category": "I",
+      "summary": "There is a current issue with front-end compatibility, which may hinder the integration of the back end with the front end.",
+      "confidence_score": 0.0,
+      "date_identified": "2024-12-16T08:11:53.524718",
+      "context": "\"most of our challenges stemmed from front-end compatibility.\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": "Identify and potentially recruit additional personnel with front-end expertise.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241216081153",
+      "category": "R",
+      "summary": "There is a risk that the team may not have the necessary skills or team members to achieve their goals for the hackathon.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-16T08:11:53.525718",
+      "context": "\"Do we have the necessary team members to achieve our goals, or are we still lacking certain skills?\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": "Assess team capabilities and consider recruiting additional expertise if needed.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241216081153",
+      "category": "I",
+      "summary": "The team encountered issues with integrating APIs from different servers during the last hackathon, which may affect their current project.",
+      "confidence_score": 0.3,
+      "date_identified": "2024-12-16T08:11:53.526718",
+      "context": "\"the challenge we faced last time was integrating the backend with the front end.\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": "Explore options for deploying APIs to platforms like Vercel, GitHub, or Heroku.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241216081153",
+      "category": "D",
+      "summary": "The team agreed to review the Nvidia Workbench and document their findings, including issues and proposed resolutions.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-16T08:11:53.527725",
+      "context": "\"let's document our findings... we should also include our proposed resolutions.\" I will share the link to the submitted projects . After that , I will provide you with the best insights . We can then",
+      "solution": "Review the workbench and create a document for findings and resolutions.",
+      "owner": null,
+      "due_date": null
+    }
+  ],
+  "statistics": {
+    "total_entries": 14,
+    "category_counts": {
+      "R": 3,
+      "A": 2,
+      "I": 4,
+      "D": 5
+    },
+    "average_confidence": 0.09964285714285714
+  }
+}

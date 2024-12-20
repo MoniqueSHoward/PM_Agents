@@ -1,0 +1,164 @@
+2024-12-15 21:23:20,223 - agents.agent_orchestration - INFO - RAID Orchestrator initialized successfully
+2024-12-15 21:23:20,224 - agents.agent_orchestration - INFO - Starting processing for file: RAID_sample.txt
+2024-12-15 21:23:20,224 - agents.agent_orchestration - INFO - Starting file conversion phase
+2024-12-15 21:23:20,225 - agents.agent_orchestration - INFO - Checking for translation requirement
+2024-12-15 21:23:20,661 - agents.agent_orchestration - INFO - Starting text cleanup
+2024-12-15 21:23:20,661 - agents.file_processing_agents - INFO - Starting text cleanup
+2024-12-15 21:23:20,707 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,709 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,709 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,709 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,710 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,710 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,711 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,712 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,712 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,713 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,713 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,713 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,714 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,714 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,714 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,715 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,716 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,716 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,716 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,717 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,717 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,718 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,718 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,719 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,719 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,720 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,720 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,720 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,721 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:23:20,721 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:23:20,722 - agents.file_processing_agents - INFO - Text cleanup completed successfully
+2024-12-15 21:23:20,722 - agents.agent_orchestration - INFO - Starting RAID analysis
+2024-12-15 21:23:20,779 - parallel_processor - INFO - Using 8 threads for processing
+2024-12-15 21:23:31,004 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 21:23:31,013 - parallel_processor - INFO - Progress: 50.0% complete. Processed: 1, Failed: 0, Retried: 0
+2024-12-15 21:23:44,484 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 21:23:44,487 - parallel_processor - INFO - Progress: 100.0% complete. Processed: 2, Failed: 0, Retried: 0
+2024-12-15 21:23:44,487 - agents.agent_orchestration - WARNING - No RAID entries found in analysis
+2024-12-15 21:23:44,488 - agents.agent_orchestration - ERROR - Error processing file: No RAID entries found in processing result
+Traceback (most recent call last):
+  File "C:\Users\monho\Downloads\pm_agents\agents\agent_orchestration.py", line 191, in process_file
+    captured_data = self.data_capture.capture_processing_data(results)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\monho\Downloads\pm_agents\agents\data_capture_agent.py", line 32, in capture_processing_data
+    raise DataConsistencyError("No RAID entries found in processing result")
+exceptions.DataConsistencyError: No RAID entries found in processing result
+
+2024-12-15 21:32:39,279 - agents.agent_orchestration - INFO - RAID Orchestrator initialized successfully
+2024-12-15 21:32:39,280 - agents.agent_orchestration - INFO - Starting processing for file: RAID_sample.txt
+2024-12-15 21:32:39,281 - agents.agent_orchestration - INFO - Starting file conversion phase
+2024-12-15 21:32:39,282 - agents.agent_orchestration - INFO - Checking for translation requirement
+2024-12-15 21:32:39,690 - agents.agent_orchestration - INFO - Starting text cleanup
+2024-12-15 21:32:39,691 - agents.file_processing_agents - INFO - Starting text cleanup
+2024-12-15 21:32:39,735 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,736 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,737 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,737 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,737 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,738 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,738 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,739 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,739 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,739 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,739 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,740 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,740 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,741 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,741 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,742 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,742 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,742 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,743 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,743 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,744 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,744 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,744 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,745 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,745 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,745 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,746 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,746 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,746 - autogen.oai.completion - WARNING - Completion.create is deprecated in autogen, pyautogen v0.2 and openai>=1. The new openai requires initiating a client for inference. Please refer to https://ag2ai.github.io/ag2/docs/Use-Cases/enhanced_inference#api-unification
+2024-12-15 21:32:39,747 - agents.file_processing_agents - WARNING - Advanced cleanup failed for chunk: (Deprecated) The autogen.Completion class requires openai<1 and diskcache. 
+2024-12-15 21:32:39,748 - agents.file_processing_agents - INFO - Text cleanup completed successfully
+2024-12-15 21:32:39,748 - agents.agent_orchestration - INFO - Starting RAID analysis
+2024-12-15 21:32:39,816 - parallel_processor - INFO - Using 8 threads for processing
+2024-12-15 21:32:50,907 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 21:32:50,915 - parallel_processor - INFO - Progress: 50.0% complete. Processed: 1, Failed: 0, Retried: 0
+2024-12-15 21:32:50,978 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 21:32:50,981 - parallel_processor - INFO - Progress: 100.0% complete. Processed: 2, Failed: 0, Retried: 0
+2024-12-15 21:32:50,981 - agents.agent_orchestration - WARNING - No RAID entries found in analysis
+2024-12-15 21:32:50,982 - agents.agent_orchestration - ERROR - Error processing file: No RAID entries found in processing result
+Traceback (most recent call last):
+  File "C:\Users\monho\Downloads\pm_agents\agents\agent_orchestration.py", line 191, in process_file
+    captured_data = self.data_capture.capture_processing_data(results)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\monho\Downloads\pm_agents\agents\data_capture_agent.py", line 32, in capture_processing_data
+    raise DataConsistencyError("No RAID entries found in processing result")
+exceptions.DataConsistencyError: No RAID entries found in processing result
+
+2024-12-15 22:32:44,747 - agents.agent_orchestration - INFO - Starting processing for file: RAID_sample.txt
+2024-12-15 22:32:44,748 - agents.agent_orchestration - INFO - Starting file conversion phase
+2024-12-15 22:32:44,748 - agents.agent_orchestration - INFO - Checking for translation requirement
+2024-12-15 22:32:45,112 - agents.agent_orchestration - INFO - Starting text cleanup
+2024-12-15 22:32:45,115 - agents.agent_orchestration - ERROR - Error processing file: Text cleanup failed: 'RAIDOrchestrator' object has no attribute 'agent_configs'
+Traceback (most recent call last):
+  File "C:\Users\monho\Downloads\pm_agents\agents\agent_orchestration.py", line 245, in _handle_cleanup
+    self.agent_configs["file_cleanup"].llm_config
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'RAIDOrchestrator' object has no attribute 'agent_configs'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\monho\Downloads\pm_agents\agents\agent_orchestration.py", line 171, in process_file
+    clean_text = self._handle_cleanup(text, results)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\monho\Downloads\pm_agents\agents\agent_orchestration.py", line 254, in _handle_cleanup
+    raise FileProcessingError(f"Text cleanup failed: {str(e)}")
+exceptions.FileProcessingError: Text cleanup failed: 'RAIDOrchestrator' object has no attribute 'agent_configs'
+
+2024-12-15 22:41:27,203 - agents.agent_orchestration - INFO - Starting processing for file: RAID_sample.txt
+2024-12-15 22:41:27,204 - agents.agent_orchestration - INFO - Starting file conversion phase
+2024-12-15 22:41:27,204 - agents.agent_orchestration - INFO - Checking for translation requirement
+2024-12-15 22:41:27,575 - agents.agent_orchestration - INFO - Starting text cleanup
+2024-12-15 22:41:27,576 - agents.file_processing_agents - INFO - Starting text cleanup
+2024-12-15 22:41:32,425 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:41:35,003 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:41:38,084 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:41:40,258 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:41:43,967 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:41:55,937 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:41:58,377 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:01,494 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:12,238 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:13,992 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:20,186 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:23,344 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:27,129 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:29,876 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:33,250 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:33,253 - agents.file_processing_agents - INFO - Text cleanup completed successfully
+2024-12-15 22:42:33,254 - agents.agent_orchestration - INFO - Starting RAID analysis
+2024-12-15 22:42:33,299 - parallel_processor - INFO - Using 8 threads for processing
+2024-12-15 22:42:42,876 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:42,881 - parallel_processor - INFO - Progress: 50.0% complete. Processed: 1, Failed: 0, Retried: 0
+2024-12-15 22:42:49,453 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-15 22:42:49,457 - parallel_processor - INFO - Progress: 100.0% complete. Processed: 2, Failed: 0, Retried: 0
+2024-12-15 22:42:49,458 - agents.agent_orchestration - WARNING - No RAID entries found in analysis
+2024-12-15 22:42:49,459 - agents.agent_orchestration - ERROR - Error processing file: No RAID entries found in processing result
+Traceback (most recent call last):
+  File "C:\Users\monho\Downloads\pm_agents\agents\agent_orchestration.py", line 180, in process_file
+    captured_data = self.data_capture.capture_processing_data(results)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\monho\Downloads\pm_agents\agents\data_capture_agent.py", line 32, in capture_processing_data
+    raise DataConsistencyError("No RAID entries found in processing result")
+exceptions.DataConsistencyError: No RAID entries found in processing result
+

@@ -1,0 +1,251 @@
+{
+  "processing_info": {
+    "timestamp": "2024-12-17T22:11:03.087312",
+    "file_name": "RAID_sample.txt",
+    "project_name": "PayDate Project",
+    "project_summary": "A project to create a web app that helps students improve their communication skills through assigned play"
+  },
+  "raid_entries": [
+    {
+      "id": "R-20241217221006",
+      "category": "R",
+      "summary": "There is a risk that the team may overlook important considerations during the hackathon, which could lead to inadequate understanding of the technology being used.",
+      "confidence_score": 0.09,
+      "date_identified": "2024-12-17T22:10:06.351617",
+      "context": "\"I believe that often, especially during hackathons, we may overlook important considerations... to truly understand the technology we are using.\" Do we have the necessary team members to achieve our goals , or are we still lacking certain skills ? If we do have a",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "A-20241217221006",
+      "category": "A",
+      "summary": "The team assumes that they can effectively utilize the Nvidia AI Workbench and that it will be suitable for their project concepts.",
+      "confidence_score": 0.09,
+      "date_identified": "2024-12-17T22:10:06.354124",
+      "context": "\"I have a meeting scheduled to discuss how it can be utilized and to evaluate whether one of the two concepts I am proposing will be suitable.\" Do we have the necessary team members to achieve our goals , or are we still lacking certain skills ? If we do have a",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241217221006",
+      "category": "I",
+      "summary": "The team faced issues with the Navicare project where they had to scale back functionality due to problems with the app's flow, which hindered effective navigation through use cases.",
+      "confidence_score": 0.12,
+      "date_identified": "2024-12-17T22:10:06.355617",
+      "context": "\"In the last hackathon, we encountered issues that we were unable to resolve... we had to scale back some functionality due to numerous problems with the flow.\" Do we have the necessary team members to achieve our goals , or are we still lacking certain skills ? If we do have a",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241217221006",
+      "category": "D",
+      "summary": "The team decided to take time to discuss the Nvidia Workbench and evaluate their ideas before making a decision on which concepts to pursue for the hackathon.",
+      "confidence_score": 0.3,
+      "date_identified": "2024-12-17T22:10:06.358114",
+      "context": "\"I suggest we take some time to discuss the workbench and how we would incorporate it into our solution... we can then evaluate our ideas and make a decision on which concepts to pursue.\" Do we have the necessary team members to achieve our goals , or are we still lacking certain skills ? If we do have a",
+      "solution": "Schedule a meeting to discuss and evaluate concepts.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241217221006",
+      "category": "D",
+      "summary": "The team agreed to reconvene next week to make a decision on whether to collectively move forward with the project based on their exploration of the Nvidia Workbench.",
+      "confidence_score": 0.3,
+      "date_identified": "2024-12-17T22:10:06.360116",
+      "context": "\"During our scheduling of another meeting next week, we can reconvene to make a decision on whether we believe the project will be successful and if we want to collectively move forward.\" Do we have the necessary team members to achieve our goals , or are we still lacking certain skills ? If we do have a",
+      "solution": "Schedule a follow-up meeting.",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241217221035",
+      "category": "R",
+      "summary": "There is a potential risk of lacking necessary team members with the required skills, which could hinder project progress.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-17T22:10:35.318616",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"Do we have the necessary team members to achieve our goals, or are we still lacking certain skills?\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241217221035",
+      "category": "R",
+      "summary": "There is uncertainty regarding the compatibility of Streamlit with the project requirements, which may lead to challenges in functionality.",
+      "confidence_score": 0.135,
+      "date_identified": "2024-12-17T22:10:35.320615",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"I believe that Streamlist may not offer all the necessary functionalities. Additionally, I think it will be difficult to work with this platform due to compatibility issues.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241217221035",
+      "category": "R",
+      "summary": "The team may face challenges similar to previous experiences with microphone integration and front-end compatibility.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-17T22:10:35.321614",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"However, we may encounter challenges similar to those we faced previously, particularly with the microphone.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "A-20241217221035",
+      "category": "A",
+      "summary": "The team assumes that limiting the number of applications for screening will allow for better focus on back-end functionality.",
+      "confidence_score": 0.09000000000000001,
+      "date_identified": "2024-12-17T22:10:35.322614",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"To improve our project, we should limit ourselves to a maximum of 90 applications for screening.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241217221035",
+      "category": "I",
+      "summary": "There is an ongoing issue with integrating the back end with the front end, which has caused previous project delays.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-17T22:10:35.323849",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"In the past, we struggled to integrate the back end with the front end, which left us at an impasse.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241217221035",
+      "category": "D",
+      "summary": "The team decided to explore the possibility of adding more personnel with expertise in React if needed.",
+      "confidence_score": 0.06,
+      "date_identified": "2024-12-17T22:10:35.325116",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"If we require additional personnel, we can seek someone with expertise in that area.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241217221035",
+      "category": "I",
+      "summary": "The team is currently facing a time constraint regarding the integration of APIs and functionalities needed for the project.",
+      "confidence_score": 0.0,
+      "date_identified": "2024-12-17T22:10:35.326166",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"I think we do not have enough time yet.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241217221035",
+      "category": "D",
+      "summary": "The team agreed to document their progress and share thoughts on the project moving forward.",
+      "confidence_score": 0.045,
+      "date_identified": "2024-12-17T22:10:35.327176",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"Additionally, let's document our progress.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241217221035",
+      "category": "R",
+      "summary": "There is a risk that the current resources may not be sufficient to implement additional functionalities required for the project.",
+      "confidence_score": 0.12,
+      "date_identified": "2024-12-17T22:10:35.328183",
+      "context": "case or feature of the app effectively . We need to consider our current team and whether we can truly invest our time effectively . \"With our current resources, if we proceed to find and search, we will obviously need to add additional functionality.\" If she mentioned this document where we annotate issues , we should also include our proposed resolutions . I will share both concepts across the",
+      "solution": null,
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241217221102",
+      "category": "D",
+      "summary": "The team will share both concepts and proposed resolutions for the projects, and decide on which project to pursue.",
+      "confidence_score": 0.12,
+      "date_identified": "2024-12-17T22:11:02.919312",
+      "context": "disable certain features . I was going to suggest that you all look at the workbench . Additionally , let 's document our progress . \"If she mentioned this document where we annotate issues, we should also include our proposed resolutions... We can then decide on each project that we want to pursue.\"",
+      "solution": "Share both concepts and proposed resolutions",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "R-20241217221102",
+      "category": "R",
+      "summary": "There is a potential risk of needing additional resources for the project, which may impact the timeline and deliverables.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-17T22:11:02.921312",
+      "context": "disable certain features . I was going to suggest that you all look at the workbench . Additionally , let 's document our progress . \"Additionally, we can assess during our meeting next week whether we need to find another resource... reach out to our networks to see if we can bring someone on board who has the necessary experience.\"",
+      "solution": "Evaluate resource needs and reach out to networks",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241217221102",
+      "category": "I",
+      "summary": "There is uncertainty regarding the criteria for the Hackathon organized by the Post team, which may hinder participation.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-17T22:11:02.922311",
+      "context": "disable certain features . I was going to suggest that you all look at the workbench . Additionally , let 's document our progress . \"I was looking for the team criteria and will need to ask about that.\"",
+      "solution": "Seek clarification on team criteria",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "A-20241217221102",
+      "category": "A",
+      "summary": "It is assumed that there is no limit on the number of team members for the Hackathon, but this needs to be confirmed.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-17T22:11:02.923354",
+      "context": "disable certain features . I was going to suggest that you all look at the workbench . Additionally , let 's document our progress . \"I believe there is no limit, but I will confirm this.\"",
+      "solution": "Confirm the number of team members allowed",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "I-20241217221102",
+      "category": "I",
+      "summary": "There is uncertainty about Dell's involvement in the Hackathon, which needs to be clarified.",
+      "confidence_score": 0.12,
+      "date_identified": "2024-12-17T22:11:02.924313",
+      "context": "disable certain features . I was going to suggest that you all look at the workbench . Additionally , let 's document our progress . \"I am unsure of Dell's involvement, but I will find out.\"",
+      "solution": "Find out about Dell's involvement",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241217221102",
+      "category": "D",
+      "summary": "A separate channel will be created to consolidate all discussed information and updates for the team.",
+      "confidence_score": 0.12,
+      "date_identified": "2024-12-17T22:11:02.925815",
+      "context": "disable certain features . I was going to suggest that you all look at the workbench . Additionally , let 's document our progress . \"That channel will be made into a separate channel, and I will add everyone to it.\"",
+      "solution": "Create a separate channel for updates",
+      "owner": null,
+      "due_date": null
+    },
+    {
+      "id": "D-20241217221102",
+      "category": "D",
+      "summary": "A meeting will be scheduled for next week to determine the best day for everyone to discuss project decisions.",
+      "confidence_score": 0.075,
+      "date_identified": "2024-12-17T22:11:02.926814",
+      "context": "disable certain features . I was going to suggest that you all look at the workbench . Additionally , let 's document our progress . \"I will schedule a meeting for next week and determine the best day for everyone.\"",
+      "solution": "Schedule a meeting",
+      "owner": null,
+      "due_date": null
+    }
+  ],
+  "statistics": {
+    "total_entries": 21,
+    "category_counts": {
+      "R": 6,
+      "A": 3,
+      "I": 5,
+      "D": 7
+    },
+    "average_confidence": 0.10500000000000001
+  }
+}
