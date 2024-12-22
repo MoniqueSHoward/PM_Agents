@@ -1,0 +1,87 @@
+[Meeting Start - Technical difficulties for first 2 minutes]
+
+[00:00:00] Sarah: Um, can everyone hear me? Hello? Is my audio working now?
+
+[00:00:15] Various: Yes... Yeah... We can hear you...
+
+[00:00:20] Sarah: Ok ok great great, sorry about that everyone, you know how these virtual meetings can be, right? *laughs* So um, yeah, let's get started with our project review for um the Digital Learning Hub. We've got like a lot to cover today and um I know everyone's super busy.
+
+[00:00:45] Mike: Hey Sarah, sorry to interrupt but um I'm having trouble seeing your screen share?
+
+[00:01:00] Sarah: Oh shoot, right right, let me just um... can you see it now? Now? How about now?
+
+[00:01:10] Mike: Yeah yeah, we can see it now.
+
+[00:01:15] Sarah: Perfect perfect. Okay so like I was saying, we need to go through the major updates and like figure out where we stand with everything. First thing first though, I should mention that um John from the AI team, he's not gonna be able to make it today because you know he's still working on that thing, that processing issue we found.
+
+[00:01:45] Emma: Oh yeah yeah, the bottleneck thing, right? The one we found during the testing, the load testing?
+
+[00:02:00] Sarah: Exactly exactly. So um, yeah, let's start with um... let's start with the content management system. Emma, can you like give us an update on that? Where are we at with that whole thing?
+
+[00:02:20] Emma: Yeah, sure sure. So like, we've basically got most of it done, like I'd say we're at about like 80% or something like that, you know? The basic stuff is all working pretty good but um there's this thing we found, this issue with the videos, like how we're handling the video content and stuff. Because like, we kind of made this assumption, we assumed that all the schools would have really good internet, like really fast connections and everything, but then I was talking to some people and um they were saying that like, especially in the rural areas and stuff, they don't always have great internet and everything so that might be like a problem you know?
+
+[00:03:15] David: Oh yeah yeah, that's actually um that's actually something I wanted to bring up too because like I've been talking to these schools, these early adopter schools, and um they're kind of assuming, they're basically assuming that we're gonna like provide them with full technical support and everything for like the first three months after we launch and everything. They like, they basically want us to handle everything you know?
+
+[00:03:45] Sarah: Wait wait... was that in our scope? I don't remember that being in our scope. Mike, what do you think about that? Like can we even do that with our current team?
+
+[00:04:00] Mike: Um, yeah, so like, if you look at our current team size and everything, there's basically no way we can handle like full support for all the pilot schools, it's just not possible you know? So like, we basically have two options right? We either need to hire more people to do support and everything, or we need to like reduce the number of schools in the pilot. And personally, I think, like in my opinion, we should probably just reduce it to like five schools instead of ten, because like hiring more people would take time and we'd have to train them and everything.
+
+[00:04:45] Lisa: Um, sorry to interrupt but I really really need to bring something up, it's kind of important. So like, we have this security audit thing scheduled for next month right? But we haven't even finished the SSO integration yet, and I'm really worried, like really concerned that if we do the audit now, and then we make all these changes to the authentication system later, we're basically gonna have to do the whole audit again you know? And that would be like, that would be really bad.
+
+[00:05:30] Mike: Yeah yeah, Lisa's right about that. We should probably like, we should probably push the audit back until after we finish all the SSO stuff you know?
+
+[00:05:45] Sarah: Yeah yeah, that makes sense makes sense. Lisa can you like work with the security vendor and everything to reschedule that? And um, while we're talking about technical stuff, what's happening with the AI engine? Like where are we with that whole thing?
+
+[00:06:15] Mike: Yeah so like, based on what John was saying earlier today, the recommendation engine is working and everything, but we found this thing, this issue where it needs way more processing power than what we thought it would need. Like way more. We're kind of assuming we can optimize it and everything to work with what we have, but if we can't do that, we're gonna need to upgrade all our servers and everything.
+
+[00:06:45] Emma: Oh and also also, I should probably mention that like the content creation tools are ready for testing and everything, but we're seeing this thing where it's taking teachers like forever to create new lesson plans. Like it's taking them about 45 minutes when we wanted it to take like 15 or 20 minutes you know?
+
+[00:07:15] David: Oh yeah yeah, I can help with that, I can definitely help with that. I actually already started working on making the interface simpler and everything. I think I think we can probably cut that time in half with the changes I'm working on you know?
+
+[00:07:35] Lisa: Um, sorry but there's one more thing I need to bring up. So like, in our latest testing, we found that the dashboard, you know the progress tracking dashboard? It gets really slow and unresponsive when there's like more than 100 people using it at the same time. And like, we really really need to fix that before we launch you know?
+
+[continued from previous transcript...]
+
+[00:08:00] Sarah: Yeah yeah, that's definitely like a critical issue. Mike, can your team like prioritize that and everything?
+
+[00:08:10] Mike: Yeah yeah, definitely definitely. We'll make it like our top priority and everything. We should probably have a fix by like the end of next week or something.
+
+[00:08:25] Sarah: Perfect perfect. So um, now we need to talk about like the mobile app development and everything. We really really need to decide today if we're gonna do both iOS and Android at the same time or if we're gonna do them one after another you know?
+
+[00:08:45] Mike: Yeah so like, if you look at our team and our timeline and everything, I really think we should just focus on iOS first and then do Android after. Because like, if we try to do both at the same time, it's gonna be too much you know? Like we just don't have enough people to do both.
+
+[00:09:15] David: Oh yeah, and like while we're talking about the mobile stuff, I just wanted to make sure, we're still assuming that most of the students have phones or tablets right? Because like that's gonna affect how we design everything.
+
+[00:09:35] Emma: Um actually actually, I've been thinking about that, and like maybe we should do some kind of survey or something? Because like, what if we're wrong about that? Like what if there's lots of students who don't have devices and everything?
+
+[00:10:00] Sarah: Yeah yeah, good point good point. Emma can you like add some questions about device availability and everything to the pilot school questionnaire?
+
+[00:10:15] Lisa: Oh and um, speaking of the mobile app and everything, we're seeing these weird issues with the data syncing between the app and the main platform. Like sometimes it works fine and everything but sometimes it doesn't, and it's really hard to figure out why you know?
+
+[00:10:45] Mike: Yeah yeah, we definitely need better logging for that. Like we need to be able to see exactly what's happening when these sync issues happen you know? I'll have the team set that up this week.
+
+[00:11:15] Sarah: Okay okay, so like, let me try to summarize everything we talked about. So we're gonna reduce the pilot to five schools, we're gonna push back the security audit, we need to fix the dashboard performance, and we're gonna do iOS first and then Android. Did I miss anything? Did I forget anything?
+
+[00:11:45] Emma: Oh oh, what about the rural schools issue? Like the bandwidth thing?
+
+[00:12:00] Sarah: Right right, yes yes, we definitely need to figure that out too. Mike, can you like work with John when he's done with the bottleneck thing to look at the video streaming stuff?
+
+[00:12:20] Mike: Yeah yeah, no problem no problem. We'll figure something out.
+
+[00:12:30] Sarah: Perfect perfect. So um, our next big milestone is getting the SSO integration done. Mike, do you think you can like put together a timeline for that? Like when everything's gonna happen and stuff?
+
+[00:12:50] Mike: Yeah yeah, I can definitely do that. I'll have it ready by like Friday or something.
+
+[00:13:00] Sarah: Great great. Um, does anyone have anything else they need to bring up? Any other issues or concerns or anything?
+
+[00:13:15] [Silence]
+
+[00:13:20] Sarah: Okay then, I guess we're done. Don't forget to like update all your tasks in the project system by the end of the day okay? And um, yeah, thanks everyone for your time and everything.
+
+[00:13:35] Various: Thanks... Bye... See you...
+
+[00:13:40] Sarah: Oh wait wait, is anyone else still having trouble with the VPN? Because like mine keeps disconnecting and...
+
+[00:13:50] Mike: Yeah yeah, IT sent an email about that. They're working on it.
+
+[00:14:00] Sarah: Oh okay okay, good to know good to know. Alright, bye everyone!
