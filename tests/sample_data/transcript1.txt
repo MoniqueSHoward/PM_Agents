@@ -1,0 +1,61 @@
+[00:00:00] Sarah (Project Manager): Good morning everyone, thanks for joining our sprint review and planning meeting for the Digital Learning Hub project. We've got quite a few items to cover today.
+
+[00:00:15] Mike (Tech Lead): Yeah, um, just to let everyone know that John from the AI team won't be able to make it. He's still working on fixing that data processing bottleneck we found during load testing.
+
+[00:00:30] Sarah: Okay, thanks Mike. Let's start with the sprint review. Emma, can you update us on the content management system?
+
+[00:00:45] Emma (Developer): Yes, we've completed about 80% of the CMS functionality. The basic features are working well, but we've identified a potential issue with how we're handling video content. The current architecture assumes all schools will have high-bandwidth connections, which might not be true for rural areas.
+
+[00:01:15] Sarah: That's an important point. We need to address this before the pilot.
+
+[00:01:30] David (UX Designer): Speaking of the pilot, I've been talking with the early adopter schools. They're assuming we'll provide full technical support during the first three months after launch. Have we budgeted for that?
+
+[00:01:55] Sarah: No, that wasn't in our original scope. Mike, what do you think about the support requirements?
+
+[00:02:10] Mike: Given our current team size, we can't handle full support for all pilot schools. We need to either hire additional support staff or reduce the number of pilot schools. I suggest we limit the initial pilot to five schools instead of ten.
+
+[00:02:40] Sarah: Alright, I'll make that decision now - we'll reduce to five pilot schools. Let's select the ones with the most diverse use cases.
+
+[00:03:00] Lisa (QA Lead): I need to raise a serious concern about our security testing timeline. The third-party security audit is scheduled for next month, but we haven't completed the SSO integration yet. There's a real risk we'll have to redo the audit if we make significant changes to the authentication system.
+
+[00:03:30] Mike: That's true. We should probably postpone the security audit until the SSO integration is complete and tested.
+
+[00:03:45] Sarah: Agreed. Lisa, please work with the security vendor to reschedule. Now, what about the AI engine progress?
+
+[00:04:00] Mike: Based on John's latest update, the AI recommendation engine is working, but we've discovered it requires more processing power than we initially estimated. We're assuming we can optimize the algorithms to run on our current infrastructure, but if not, we'll need to upgrade our server capacity.
+
+[00:04:30] Emma: I also want to mention that the content creation tools are ready for testing. However, we're seeing that it takes teachers an average of 45 minutes to create a new lesson plan. Our original target was 15-20 minutes.
+
+[00:05:00] David: I can help with that. I've already started working on simplifying the interface. We should be able to cut the time in half with the changes I'm proposing.
+
+[00:05:20] Sarah: Good initiative, David. Please prioritize those UI improvements.
+
+[00:05:35] Lisa: One more thing - the latest round of testing revealed that the progress tracking dashboard becomes unresponsive with more than 100 simultaneous users. This needs to be addressed before we can launch.
+
+[00:06:00] Sarah: Okay, that's definitely a critical issue. Mike, can your team prioritize this?
+
+[00:06:10] Mike: Yes, we'll make it our top priority. We should have a fix by the end of next week.
+
+[00:06:25] Sarah: Perfect. Now, let's talk about the mobile app development. We need to decide today whether to proceed with both iOS and Android development in parallel or do them sequentially.
+
+[00:06:45] Mike: Given our current team composition and timeline, I recommend we focus on iOS first, then Android. Trying to do both simultaneously would stretch our resources too thin.
+
+[00:07:00] Sarah: Does everyone agree with this approach? [Pause] Okay, decision made - we'll develop iOS first, targeting completion in six weeks, then start Android development.
+
+[00:07:20] David: Just to confirm, we're still assuming that most students will have access to either a tablet or smartphone, right? This affects how we design the mobile interfaces.
+
+[00:07:40] Sarah: Yes, that assumption is based on the survey data from our pilot schools. Emma, please make sure we include device availability questions in the pilot school onboarding questionnaire.
+
+[00:08:00] Lisa: One last thing - we're seeing some intermittent issues with the data synchronization between the mobile app and the main platform. It's not consistent, which makes it hard to debug.
+
+[00:08:20] Mike: We'll need to implement better logging to track down those sync issues. I'll have the team set that up this week.
+
+[00:08:40] Sarah: Alright, let's wrap up. To summarize the key points: We're reducing pilot schools to five, postponing the security audit, prioritizing dashboard performance, and doing mobile development sequentially starting with iOS.
+
+[00:09:00] Sarah: Our next major milestone is the completion of the SSO integration. Mike, can you have your team prepare a detailed timeline for that?
+
+[00:09:15] Mike: Yes, I'll have that ready by Friday.
+
+[00:09:20] Sarah: Great, thanks everyone. Please update your tasks in the project management system by end of day.
+
+[Meeting Ended]
