@@ -6,9 +6,9 @@ Project management automation agents using AutoGen framework. This package provi
 This project implements a RAID (Risks, Assumptions, Issues, Decisions) analysis system using the AutoGen framework. It processes meeting recordings and transcripts to automatically identify and categorize project management artifacts. The system uses parallel processing and AI agents to analyze content while maintaining context and providing confidence scores for each identified item.
 
 ## Test Version
-To test our AutoGen agent framework, click [HERE](file-analysis-raid-monique10.replit.app)
+To test PM Sidekick, click [HERE](file-analysis-raid-monique10.replit.app)
 
-Sample files can be found in the [HERE](https://github.com/MoniqueSHoward/PM_Agents/tree/main/tests/sample_data)
+Sample input files can be found in the [HERE](https://github.com/MoniqueSHoward/PM_Agents/tree/main/tests/sample_data)
 
 ## Problem Being Solved
 [https://github.com/MoniqueSHoward/PM_Agents/issues/1#issue-2752072969](https://private-user-images.githubusercontent.com/54523934/397643633-0ee662f7-aba5-4349-bb1d-8369751cbcfa.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ2Nzc5NzQsIm5iZiI6MTczNDY3NzY3NCwicGF0aCI6Ii81NDUyMzkzNC8zOTc2NDM2MzMtMGVlNjYyZjctYWJhNS00MzQ5LWJiMWQtODM2OTc1MWNiY2ZhLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIwVDA2NTQzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3ZTgyMWVjZTg5NDI2MDgyZTcyN2Y0NDIzMDYwZjI0ZTMzMWZlZmVlYWJhNDE5OGQ0NTRlZWY4Mzk5NTUwZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pq5Bt1SZ2KJ_658QMo5nKCg9Yb1HCmKOVdf_zmrA-tg)
